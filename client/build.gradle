@@ -1,0 +1,16 @@
+group 'Vanzari'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(":domain")
+    compile project(":rmi")
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

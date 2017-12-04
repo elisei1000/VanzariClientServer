@@ -1,0 +1,2 @@
+rmiregistry -Djava.rmi.server.codebase=.
+

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>vanzari.persistence.interfaces.ISoldTotalRepository</OriginalElement>
+  <nodes>
+    <node x="3715.322831632652" y="289.5">vanzari.domain.Produs</node>
+    <node x="2449.465614370747" y="646.5">vanzari.persistence.interfaces.IProduseRepository</node>
+    <node x="616.5151573129242" y="57.5">vanzari.persistence.Exceptions.RepositoryException</node>
+    <node x="2905.8291666666664" y="588.5">vanzari.domain.Stoc</node>
+    <node x="3596.9978316326524" y="2221.0">StartClient</node>
+    <node x="192.29894770407964" y="600.0">vanzari.domain.SoldTotal</node>
+    <node x="1900.9656143707468" y="646.5">vanzari.persistence.interfaces.IFacturiRepository</node>
+    <node x="1187.92394770408" y="635.0">vanzari.persistence.interfaces.IVanzariRepository</node>
+    <node x="380.9886160714275" y="1184.0">vanzari.persistence.SoldTotalHibernateRepository</node>
+    <node x="3712.8291666666664" y="635.0">vanzari.services.rmi.VanzariServiceException</node>
+    <node x="3420.8291666666664" y="588.5">vanzari.services.rmi.IServer</node>
+    <node x="2755.3421237244893" y="382.5">vanzari.domain.ICloneableHasId</node>
+    <node x="4302.390157312924" y="1184.5">vanzari.domain.Factura</node>
+    <node x="1592.365614370747" y="612.0">vanzari.persistence.interfaces.ISoldTotalRepository</node>
+    <node x="3639.9978316326524" y="1874.5">vanzari.client.gui.VanzariWindow</node>
+    <node x="4092.390157312924" y="577.0">vanzari.domain.Vanzare</node>
+    <node x="446.6739477040801" y="635.0">vanzari.persistence.SoldTotalsHibernateRepository</node>
+    <node x="2310.6962903911553" y="896.0">vanzari.server.Server</node>
+    <node x="1679.558333333333" y="1242.5">vanzari.persistence.ProduseHibernateRepository</node>
+    <node x="1321.558333333333" y="1230.5">vanzari.persistence.StocuriHibernateRepository</node>
+    <node x="3399.9401573129244" y="57.5">vanzari.domain.HasId</node>
+    <node x="3576.9978316326524" y="1137.5">vanzari.client.ClientCtrl</node>
+    <node x="19.98861607142726" y="1230.5">vanzari.persistence.VanzariHibernateRepository</node>
+    <node x="3109.8291666666664" y="623.5">vanzari.services.rmi.IClient</node>
+    <node x="3901.9541666666664" y="1702.0">vanzari.client.gui.VanzariWindowController</node>
+    <node x="2665.7859906462572" y="57.5">vanzari.domain.ICloneable</node>
+    <node x="1876.7859906462575" y="0.0">vanzari.persistence.AbstractCrudRepository</node>
+    <node x="423.7186649659857" y="278.0">vanzari.persistence.AbstractHibernateCrudRepository</node>
+    <node x="1387.967123724489" y="1910.0">StartServer</node>
+    <node x="2153.590614370747" y="635.0">vanzari.persistence.interfaces.IStocuriRepository</node>
+    <node x="0.0" y="2342.0">vanzari.persistence.Util</node>
+    <node x="984.5583333333329" y="1242.5">vanzari.persistence.FacturiHibernateRepository</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="vanzari.domain.Factura" target="vanzari.domain.Vanzare">
+      <point x="-96.5" y="-84.5" />
+      <point x="4398.890157312924" y="876.0" />
+      <point x="4431.690157312924" y="876.0" />
+      <point x="150.80000000000018" y="84.5" />
+    </edge>
+    <edge source="vanzari.client.ClientCtrl" target="vanzari.services.rmi.IClient">
+      <point x="-131.19999999999982" y="-131.5" />
+      <point x="3609.7978316326526" y="816.0" />
+      <point x="3328.0791666666664" y="816.0" />
+      <point x="72.75" y="38.0" />
+    </edge>
+    <edge source="vanzari.domain.Vanzare" target="vanzari.domain.HasId">
+      <point x="94.25" y="-84.5" />
+      <point x="4375.140157312924" y="198.0" />
+      <point x="3459.9401573129244" y="198.0" />
+      <point x="20.0" y="26.5" />
+    </edge>
+    <edge source="StartClient" target="vanzari.client.gui.VanzariWindow">
+      <point x="48.0" y="-38.0" />
+      <point x="0.0" y="62.0" />
+    </edge>
+    <edge source="vanzari.persistence.FacturiHibernateRepository" target="vanzari.persistence.interfaces.IFacturiRepository">
+      <point x="79.25" y="-26.5" />
+      <point x="1222.308333333333" y="856.0" />
+      <point x="1937.9656143707468" y="856.0" />
+      <point x="-37.0" y="15.0" />
+    </edge>
+    <edge source="vanzari.domain.Stoc" target="vanzari.domain.HasId">
+      <point x="-46.0" y="-73.0" />
+      <point x="2951.8291666666664" y="537.0" />
+      <point x="2904.8421237244893" y="537.0" />
+      <point x="2904.8421237244893" y="258.0" />
+      <point x="3433.2734906462574" y="258.0" />
+      <point x="-6.666666666666515" y="26.5" />
+    </edge>
+    <edge source="StartServer" target="vanzari.server.Server">
+      <point x="49.14285714285711" y="-26.5" />
+      <point x="1523.1099808673462" y="1672.0" />
+      <point x="2691.1962903911553" y="1672.0" />
+      <point x="0.0" y="373.0" />
+    </edge>
+    <edge source="vanzari.persistence.AbstractHibernateCrudRepository" target="vanzari.persistence.Exceptions.RepositoryException">
+      <point x="-99.75" y="-119.5" />
+      <point x="523.4686649659857" y="208.0" />
+      <point x="729.5151573129242" y="208.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="vanzari.client.ClientCtrl" target="vanzari.services.rmi.IServer">
+      <point x="-65.59999999999991" y="-131.5" />
+      <point x="3675.3978316326525" y="826.0" />
+      <point x="3624.8291666666664" y="826.0" />
+      <point x="68.0" y="73.0" />
+    </edge>
+    <edge source="vanzari.client.gui.VanzariWindowController" target="vanzari.domain.Produs">
+      <point x="-67.25" y="-234.5" />
+      <point x="4103.704166666666" y="1682.0" />
+      <point x="4081.890157312924" y="1682.0" />
+      <point x="4081.890157312924" y="547.0" />
+      <point x="3896.6228316326524" y="547.0" />
+      <point x="51.80000000000018" y="108.0" />
+    </edge>
+    <edge source="vanzari.persistence.ProduseHibernateRepository" target="vanzari.persistence.AbstractHibernateCrudRepository">
+      <point x="-81.25" y="-26.5" />
+      <point x="1760.808333333333" y="806.0" />
+      <point x="1177.42394770408" y="806.0" />
+      <point x="1177.42394770408" y="537.0" />
+      <point x="782.8186649659858" y="537.0" />
+      <point x="159.60000000000014" y="119.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.services.rmi.IClient">
+      <point x="158.54166666666652" y="-373.0" />
+      <point x="2849.7379570578223" y="816.0" />
+      <point x="3182.5791666666664" y="816.0" />
+      <point x="-72.75" y="38.0" />
+    </edge>
+    <edge source="vanzari.client.gui.VanzariWindowController" target="vanzari.client.ClientCtrl">
+      <point x="-201.75" y="-234.5" />
+      <point x="3969.2041666666664" y="1682.0" />
+      <point x="3850.331164965986" y="1682.0" />
+      <point x="109.33333333333348" y="131.5" />
+    </edge>
+    <edge source="vanzari.persistence.VanzariHibernateRepository" target="vanzari.persistence.interfaces.IVanzariRepository">
+      <point x="113.66666666666669" y="-38.5" />
+      <point x="304.1552827380938" y="836.0" />
+      <point x="1271.42394770408" y="836.0" />
+      <point x="-83.5" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.StocuriHibernateRepository" target="vanzari.persistence.interfaces.IStocuriRepository">
+      <point x="84.5" y="-38.5" />
+      <point x="1575.058333333333" y="866.0" />
+      <point x="2206.090614370747" y="866.0" />
+      <point x="-52.5" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.SoldTotalHibernateRepository" target="vanzari.domain.SoldTotal">
+      <point x="-80.39999999999998" y="-85.0" />
+      <point x="501.5886160714276" y="816.0" />
+      <point x="336.29894770407964" y="816.0" />
+      <point x="48.0" y="61.5" />
+    </edge>
+    <edge source="vanzari.persistence.VanzariHibernateRepository" target="vanzari.persistence.Exceptions.RepositoryException">
+      <point x="-113.66666666666652" y="-38.5" />
+      <point x="76.82194940476074" y="876.0" />
+      <point x="26.0" y="876.0" />
+      <point x="26.0" y="198.0" />
+      <point x="654.1818239795907" y="198.0" />
+      <point x="-75.33333333333348" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.StocuriHibernateRepository" target="vanzari.persistence.AbstractHibernateCrudRepository">
+      <point x="-84.5" y="-38.5" />
+      <point x="1406.058333333333" y="816.0" />
+      <point x="994.5489477040801" y="816.0" />
+      <point x="994.5489477040801" y="547.0" />
+      <point x="703.0186649659859" y="547.0" />
+      <point x="79.80000000000018" y="119.5" />
+    </edge>
+    <edge source="vanzari.domain.SoldTotal" target="vanzari.domain.HasId">
+      <point x="0.0" y="-61.5" />
+      <point x="288.29894770407964" y="547.0" />
+      <point x="228.51866496598586" y="547.0" />
+      <point x="228.51866496598586" y="238.0" />
+      <point x="3406.6068239795904" y="238.0" />
+      <point x="-33.333333333333485" y="26.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.persistence.interfaces.IProduseRepository">
+      <point x="-95.125" y="-373.0" />
+      <point x="2596.0712903911553" y="876.0" />
+      <point x="2566.465614370747" y="876.0" />
+      <point x="39.0" y="15.0" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.services.rmi.VanzariServiceException">
+      <point x="285.375" y="-373.0" />
+      <point x="2976.5712903911553" y="836.0" />
+      <point x="3775.3291666666664" y="836.0" />
+      <point x="-62.5" y="26.5" />
+    </edge>
+    <edge source="vanzari.client.gui.VanzariWindow" target="vanzari.client.ClientCtrl">
+      <point x="0.0" y="-62.0" />
+      <point x="0.0" y="131.5" />
+    </edge>
+    <edge source="vanzari.domain.Stoc" target="vanzari.domain.Produs">
+      <point x="46.0" y="-73.0" />
+      <point x="3043.8291666666664" y="557.0" />
+      <point x="3793.022831632652" y="557.0" />
+      <point x="-51.80000000000018" y="108.0" />
+    </edge>
+    <edge source="vanzari.domain.Vanzare" target="vanzari.domain.Produs">
+      <point x="-94.25" y="-84.5" />
+      <point x="4186.640157312924" y="537.0" />
+      <point x="3948.4228316326526" y="537.0" />
+      <point x="103.59999999999991" y="108.0" />
+    </edge>
+    <edge source="vanzari.client.gui.VanzariWindowController" target="vanzari.domain.Vanzare">
+      <point x="201.75" y="-234.5" />
+      <point x="4372.704166666666" y="1682.0" />
+      <point x="4291.890157312924" y="1682.0" />
+      <point x="4291.890157312924" y="876.0" />
+      <point x="4356.290157312924" y="876.0" />
+      <point x="75.39999999999964" y="84.5" />
+    </edge>
+    <edge source="StartServer" target="vanzari.domain.Stoc">
+      <point x="73.71428571428578" y="-26.5" />
+      <point x="1547.6814094387748" y="1682.0" />
+      <point x="3190.213616071427" y="1682.0" />
+      <point x="3190.213616071427" y="806.0" />
+      <point x="3043.8291666666664" y="806.0" />
+      <point x="46.0" y="73.0" />
+    </edge>
+    <edge source="vanzari.persistence.SoldTotalsHibernateRepository" target="vanzari.persistence.AbstractHibernateCrudRepository">
+      <point x="0.0" y="-26.5" />
+      <point x="615.1739477040801" y="557.0" />
+      <point x="543.4186649659857" y="557.0" />
+      <point x="-79.79999999999995" y="119.5" />
+    </edge>
+    <edge source="vanzari.client.ClientCtrl" target="vanzari.domain.Produs">
+      <point x="65.59999999999991" y="-131.5" />
+      <point x="3806.5978316326523" y="856.0" />
+      <point x="4028.2541666666666" y="856.0" />
+      <point x="4028.2541666666666" y="557.0" />
+      <point x="3844.822831632652" y="557.0" />
+      <point x="0.0" y="108.0" />
+    </edge>
+    <edge source="vanzari.client.ClientCtrl" target="vanzari.domain.Vanzare">
+      <point x="131.19999999999982" y="-131.5" />
+      <point x="3872.197831632652" y="876.0" />
+      <point x="4205.490157312925" y="876.0" />
+      <point x="-75.39999999999964" y="84.5" />
+    </edge>
+    <edge source="vanzari.domain.Produs" target="vanzari.domain.ICloneable">
+      <point x="-64.75" y="-108.0" />
+      <point x="3780.072831632652" y="218.0" />
+      <point x="2753.5359906462572" y="218.0" />
+      <point x="29.25" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.interfaces.IVanzariRepository" target="vanzari.persistence.AbstractCrudRepository">
+      <point x="0.0" y="-26.5" />
+      <point x="1354.92394770408" y="228.0" />
+      <point x="1955.9859906462575" y="228.0" />
+      <point x="-52.799999999999955" y="84.0" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.services.rmi.IServer">
+      <point x="221.95833333333348" y="-373.0" />
+      <point x="2913.1546237244893" y="826.0" />
+      <point x="3488.8291666666664" y="826.0" />
+      <point x="-68.0" y="73.0" />
+    </edge>
+    <edge source="vanzari.domain.ICloneableHasId" target="vanzari.domain.ICloneable">
+      <point x="-34.75" y="-15.0" />
+      <point x="2790.0921237244893" y="228.0" />
+      <point x="2695.0359906462572" y="228.0" />
+      <point x="-29.25" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.SoldTotalHibernateRepository" target="vanzari.persistence.SoldTotalsHibernateRepository">
+      <point x="80.39999999999998" y="-85.0" />
+      <point x="662.3886160714274" y="826.0" />
+      <point x="699.4239477040801" y="826.0" />
+      <point x="84.25" y="26.5" />
+    </edge>
+    <edge source="vanzari.domain.Factura" target="vanzari.domain.HasId">
+      <point x="96.5" y="-84.5" />
+      <point x="4591.890157312924" y="188.0" />
+      <point x="3473.2734906462574" y="188.0" />
+      <point x="33.333333333333485" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.interfaces.IProduseRepository" target="vanzari.persistence.AbstractCrudRepository">
+      <point x="0.0" y="-15.0" />
+      <point x="2527.465614370747" y="218.0" />
+      <point x="2114.3859906462576" y="218.0" />
+      <point x="105.59999999999991" y="84.0" />
+    </edge>
+    <edge source="StartServer" target="vanzari.persistence.StocuriHibernateRepository">
+      <point x="0.0" y="-26.5" />
+      <point x="1473.967123724489" y="1682.0" />
+      <point x="1490.558333333333" y="1682.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="vanzari.persistence.SoldTotalHibernateRepository" target="vanzari.persistence.interfaces.ISoldTotalRepository">
+      <point x="160.79999999999995" y="-85.0" />
+      <point x="742.7886160714274" y="846.0" />
+      <point x="1659.615614370747" y="846.0" />
+      <point x="-67.25" y="49.5" />
+    </edge>
+    <edge source="StartClient" target="vanzari.client.ClientCtrl">
+      <point x="-48.0" y="-38.0" />
+      <point x="3644.9978316326524" y="2196.0" />
+      <point x="3629.4978316326524" y="2196.0" />
+      <point x="3629.4978316326524" y="1682.0" />
+      <point x="3631.664498299319" y="1682.0" />
+      <point x="-109.33333333333348" y="131.5" />
+    </edge>
+    <edge source="vanzari.persistence.FacturiHibernateRepository" target="vanzari.persistence.AbstractHibernateCrudRepository">
+      <point x="-79.25" y="-26.5" />
+      <point x="1063.808333333333" y="826.0" />
+      <point x="812.6739477040801" y="826.0" />
+      <point x="812.6739477040801" y="557.0" />
+      <point x="623.2186649659857" y="557.0" />
+      <point x="0.0" y="119.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.persistence.interfaces.IStocuriRepository">
+      <point x="-158.54166666666652" y="-373.0" />
+      <point x="2532.6546237244893" y="766.0" />
+      <point x="2311.090614370747" y="766.0" />
+      <point x="52.5" y="26.5" />
+    </edge>
+    <edge source="StartServer" target="vanzari.persistence.FacturiHibernateRepository">
+      <point x="-24.57142857142867" y="-26.5" />
+      <point x="1449.3956951530604" y="1662.0" />
+      <point x="1143.058333333333" y="1662.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="StartServer" target="vanzari.persistence.VanzariHibernateRepository">
+      <point x="-73.71428571428578" y="-26.5" />
+      <point x="1400.2528380102033" y="1682.0" />
+      <point x="190.48861607142726" y="1682.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.domain.Produs">
+      <point x="31.708333333333485" y="-373.0" />
+      <point x="2722.9046237244893" y="876.0" />
+      <point x="2730.5166666666664" y="876.0" />
+      <point x="2730.5166666666664" y="547.0" />
+      <point x="3741.2228316326527" y="547.0" />
+      <point x="-103.59999999999991" y="108.0" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.persistence.Exceptions.RepositoryException">
+      <point x="-31.70833333333303" y="-373.0" />
+      <point x="2659.4879570578223" y="876.0" />
+      <point x="2685.696290391156" y="876.0" />
+      <point x="2685.696290391156" y="208.0" />
+      <point x="804.8484906462575" y="208.0" />
+      <point x="75.33333333333326" y="26.5" />
+    </edge>
+    <edge source="StartServer" target="vanzari.persistence.SoldTotalHibernateRepository">
+      <point x="-49.14285714285711" y="-26.5" />
+      <point x="1424.824266581632" y="1672.0" />
+      <point x="581.9886160714275" y="1672.0" />
+      <point x="0.0" y="85.0" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.domain.Stoc">
+      <point x="95.125" y="-373.0" />
+      <point x="2786.3212903911553" y="806.0" />
+      <point x="2951.8291666666664" y="806.0" />
+      <point x="-46.0" y="73.0" />
+    </edge>
+    <edge source="vanzari.persistence.VanzariHibernateRepository" target="vanzari.persistence.AbstractHibernateCrudRepository">
+      <point x="0.0" y="-38.5" />
+      <point x="190.48861607142726" y="876.0" />
+      <point x="121.83182397959035" y="876.0" />
+      <point x="121.83182397959035" y="557.0" />
+      <point x="463.6186649659858" y="557.0" />
+      <point x="-159.5999999999999" y="119.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.persistence.interfaces.IVanzariRepository">
+      <point x="-348.7916666666665" y="-373.0" />
+      <point x="2342.4046237244893" y="796.0" />
+      <point x="1438.42394770408" y="796.0" />
+      <point x="83.5" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.interfaces.IFacturiRepository" target="vanzari.persistence.AbstractCrudRepository">
+      <point x="0.0" y="-15.0" />
+      <point x="1974.9656143707468" y="228.0" />
+      <point x="2008.7859906462575" y="228.0" />
+      <point x="0.0" y="84.0" />
+    </edge>
+    <edge source="StartServer" target="vanzari.persistence.ProduseHibernateRepository">
+      <point x="24.57142857142867" y="-26.5" />
+      <point x="1498.5385522959177" y="1662.0" />
+      <point x="1842.058333333333" y="1662.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="vanzari.persistence.ProduseHibernateRepository" target="vanzari.persistence.interfaces.IProduseRepository">
+      <point x="81.25" y="-26.5" />
+      <point x="1923.308333333333" y="876.0" />
+      <point x="2488.465614370747" y="876.0" />
+      <point x="-39.0" y="15.0" />
+    </edge>
+    <edge source="vanzari.persistence.AbstractHibernateCrudRepository" target="vanzari.persistence.AbstractCrudRepository">
+      <point x="99.75" y="-119.5" />
+      <point x="722.9686649659857" y="218.0" />
+      <point x="1903.1859906462576" y="218.0" />
+      <point x="-105.59999999999991" y="84.0" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.persistence.interfaces.IFacturiRepository">
+      <point x="-221.95833333333303" y="-373.0" />
+      <point x="2469.2379570578223" y="776.0" />
+      <point x="2011.9656143707468" y="776.0" />
+      <point x="37.0" y="15.0" />
+    </edge>
+    <edge source="vanzari.client.ClientCtrl" target="vanzari.services.rmi.VanzariServiceException">
+      <point x="0.0" y="-131.5" />
+      <point x="3740.9978316326524" y="846.0" />
+      <point x="3900.3291666666664" y="846.0" />
+      <point x="62.5" y="26.5" />
+    </edge>
+    <edge source="vanzari.domain.ICloneableHasId" target="vanzari.domain.HasId">
+      <point x="34.75" y="-15.0" />
+      <point x="2859.5921237244893" y="248.0" />
+      <point x="3419.9401573129244" y="248.0" />
+      <point x="-20.0" y="26.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.domain.Vanzare">
+      <point x="348.7916666666665" y="-373.0" />
+      <point x="3039.9879570578223" y="866.0" />
+      <point x="4130.090157312924" y="866.0" />
+      <point x="-150.80000000000018" y="84.5" />
+    </edge>
+    <edge source="vanzari.server.Server" target="vanzari.persistence.interfaces.ISoldTotalRepository">
+      <point x="-285.375" y="-373.0" />
+      <point x="2405.8212903911553" y="786.0" />
+      <point x="1794.115614370747" y="786.0" />
+      <point x="67.25" y="49.5" />
+    </edge>
+    <edge source="vanzari.persistence.interfaces.IStocuriRepository" target="vanzari.persistence.AbstractCrudRepository">
+      <point x="0.0" y="-26.5" />
+      <point x="2258.590614370747" y="228.0" />
+      <point x="2061.5859906462574" y="228.0" />
+      <point x="52.80000000000018" y="84.0" />
+    </edge>
+    <edge source="vanzari.domain.Produs" target="vanzari.domain.HasId">
+      <point x="64.75" y="-108.0" />
+      <point x="3909.572831632652" y="208.0" />
+      <point x="3446.6068239795904" y="208.0" />
+      <point x="6.666666666666515" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.30000000000000016" x="1981.1666666666615" y="1074.6666666666636" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

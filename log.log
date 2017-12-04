@@ -1,0 +1,438 @@
+[2017-12-04 16:12:27] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 6.42949
+[2017-12-04 16:12:27] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 6.5161633
+[2017-12-04 16:12:27] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 3.898114
+[2017-12-04 16:12:32] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:12:32] [randomSeller] addVanzare called: Produs:(id: 9, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 7.438023
+[2017-12-04 16:12:37] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:12:37] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 7.283806
+[2017-12-04 16:12:37] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.930716
+[2017-12-04 16:12:42] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:12:42] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 5.7766447
+[2017-12-04 16:12:47] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:12:47] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.6517775
+[2017-12-04 16:12:52] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:12:52] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 5.8626394
+[2017-12-04 16:12:52] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.08864
+[2017-12-04 16:12:57] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:12:57] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.737467
+[2017-12-04 16:13:02] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:02] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.2520866
+[2017-12-04 16:13:07] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:07] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.514029
+[2017-12-04 16:13:12] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:12] [randomSeller] addVanzare called: Produs:(id: 9, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.7918968
+[2017-12-04 16:13:17] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:17] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 0.015550852
+[2017-12-04 16:13:22] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:22] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.5495915
+[2017-12-04 16:13:27] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:27] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.859482
+[2017-12-04 16:13:32] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:32] [randomSeller] addVanzare called: Produs:(id: 7, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.014804
+[2017-12-04 16:13:37] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:37] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.1507416
+[2017-12-04 16:13:42] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:42] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 7.6480055
+[2017-12-04 16:13:47] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:47] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.457055
+[2017-12-04 16:13:52] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:13:53] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 3.8797152
+[2017-12-04 16:13:57] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:13:58] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 0.03135383
+[2017-12-04 16:14:02] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:03] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.5077724
+[2017-12-04 16:14:07] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:08] [randomSeller] addVanzare called: Produs:(id: 9, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.3301635
+[2017-12-04 16:14:12] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:13] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 2.8089838
+[2017-12-04 16:14:17] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:18] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 7.762151
+[2017-12-04 16:14:22] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:23] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 3.984757
+[2017-12-04 16:14:27] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:28] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 8.953734
+[2017-12-04 16:14:28] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 1.5039212
+[2017-12-04 16:14:32] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:33] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 5.461014
+[2017-12-04 16:14:37] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:38] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 8.827672
+[2017-12-04 16:14:42] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:43] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.2678404
+[2017-12-04 16:14:47] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:48] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.145581
+[2017-12-04 16:14:52] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:53] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 1.2233758
+[2017-12-04 16:14:57] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:14:58] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 7.768331
+[2017-12-04 16:14:58] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 0.07994771
+[2017-12-04 16:15:02] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:03] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 0.26884615
+[2017-12-04 16:15:07] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:08] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 4.4407597
+[2017-12-04 16:15:12] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:13] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.301718
+[2017-12-04 16:15:17] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:18] [randomSeller] addVanzare called: Produs:(id: 7, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 0.8204508
+[2017-12-04 16:15:22] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:23] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.1304383
+[2017-12-04 16:15:27] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:28] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 8.419527
+[2017-12-04 16:15:32] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:33] [randomSeller] addVanzare called: Produs:(id: 7, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 0.5282414
+[2017-12-04 16:15:37] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:38] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.03216
+[2017-12-04 16:15:42] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:43] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.0731072
+[2017-12-04 16:15:47] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:48] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.818212
+[2017-12-04 16:15:52] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:53] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.518448
+[2017-12-04 16:15:57] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:15:58] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.202941
+[2017-12-04 16:16:02] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:03] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 8.382396
+[2017-12-04 16:16:07] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:08] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 8.806571
+[2017-12-04 16:16:12] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:13] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 1.0608464
+[2017-12-04 16:16:17] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:18] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.591709
+[2017-12-04 16:16:22] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:23] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.439027
+[2017-12-04 16:16:28] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:28] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.0467572
+[2017-12-04 16:16:33] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:16:33] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.3663917
+[2017-12-04 16:16:38] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:16:38] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 1.5515065
+[2017-12-04 16:16:43] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:16:43] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.589084
+[2017-12-04 16:16:48] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:16:48] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 8.606788
+[2017-12-04 16:16:53] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:16:53] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 1.3285631
+[2017-12-04 16:16:53] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.519393
+[2017-12-04 16:16:58] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:16:58] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 2.0858188
+[2017-12-04 16:17:03] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:03] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.738732
+[2017-12-04 16:17:08] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:08] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.2758741
+[2017-12-04 16:17:13] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:13] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.3214145
+[2017-12-04 16:17:18] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:18] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 2.701027
+[2017-12-04 16:17:23] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:23] [randomSeller] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.0888267
+[2017-12-04 16:17:28] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:28] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.8040214
+[2017-12-04 16:17:33] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:33] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 7.731914
+[2017-12-04 16:17:38] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:38] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 2.1606188
+[2017-12-04 16:17:43] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:43] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 5.3539844
+[2017-12-04 16:17:48] [SellSherif] Check verification successfully finished with OK Status!
+[2017-12-04 16:17:49] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.237792
+[2017-12-04 16:17:51] [Client] getAllProduse call
+[2017-12-04 16:17:51] [Client] getAllVanzare call
+[2017-12-04 16:17:53] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:17:54] [randomSeller] addVanzare called: Produs:(id: 9, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 0.32996655
+[2017-12-04 16:17:54] [Client] getAllVanzare call
+[2017-12-04 16:17:58] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:17:59] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 0.42810857
+[2017-12-04 16:17:59] [Client] getAllVanzare call
+[2017-12-04 16:18:03] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:04] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.6589165
+[2017-12-04 16:18:04] [Client] getAllVanzare call
+[2017-12-04 16:18:06] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:06] [Client] getAllVanzare call
+[2017-12-04 16:18:07] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:07] [Client] getAllVanzare call
+[2017-12-04 16:18:07] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:07] [Client] getAllVanzare call
+[2017-12-04 16:18:08] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:08] [Client] getAllVanzare call
+[2017-12-04 16:18:08] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:08] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:08] [Client] getAllVanzare call
+[2017-12-04 16:18:08] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:08] [Client] getAllVanzare call
+[2017-12-04 16:18:09] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:09] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.548229
+[2017-12-04 16:18:09] [Client] getAllVanzare call
+[2017-12-04 16:18:09] [Client] getAllVanzare call
+[2017-12-04 16:18:09] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:09] [Client] getAllVanzare call
+[2017-12-04 16:18:09] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:09] [Client] getAllVanzare call
+[2017-12-04 16:18:09] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:09] [Client] getAllVanzare call
+[2017-12-04 16:18:09] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:09] [Client] getAllVanzare call
+[2017-12-04 16:18:10] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:10] [Client] getAllVanzare call
+[2017-12-04 16:18:10] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:10] [Client] getAllVanzare call
+[2017-12-04 16:18:10] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:10] [Client] getAllVanzare call
+[2017-12-04 16:18:10] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:10] [Client] getAllVanzare call
+[2017-12-04 16:18:10] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:10] [Client] getAllVanzare call
+[2017-12-04 16:18:10] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:10] [Client] getAllVanzare call
+[2017-12-04 16:18:11] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:11] [Client] getAllVanzare call
+[2017-12-04 16:18:11] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:11] [Client] getAllVanzare call
+[2017-12-04 16:18:11] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:11] [Client] getAllVanzare call
+[2017-12-04 16:18:11] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:11] [Client] getAllVanzare call
+[2017-12-04 16:18:11] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:11] [Client] getAllVanzare call
+[2017-12-04 16:18:12] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:12] [Client] getAllVanzare call
+[2017-12-04 16:18:12] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:12] [Client] getAllVanzare call
+[2017-12-04 16:18:12] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:12] [Client] getAllVanzare call
+[2017-12-04 16:18:12] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:12] [Client] getAllVanzare call
+[2017-12-04 16:18:12] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:12] [Client] getAllVanzare call
+[2017-12-04 16:18:13] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:13] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:13] [Client] getAllVanzare call
+[2017-12-04 16:18:13] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:13] [Client] getAllVanzare call
+[2017-12-04 16:18:13] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:13] [Client] getAllVanzare call
+[2017-12-04 16:18:13] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:13] [Client] getAllVanzare call
+[2017-12-04 16:18:14] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 2.611752
+[2017-12-04 16:18:14] [Client] getAllVanzare call
+[2017-12-04 16:18:14] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:14] [Client] getAllVanzare call
+[2017-12-04 16:18:14] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:14] [Client] getAllVanzare call
+[2017-12-04 16:18:14] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:14] [Client] getAllVanzare call
+[2017-12-04 16:18:14] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:14] [Client] getAllVanzare call
+[2017-12-04 16:18:14] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:14] [Client] getAllVanzare call
+[2017-12-04 16:18:15] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:15] [Client] getAllVanzare call
+[2017-12-04 16:18:15] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:15] [Client] getAllVanzare call
+[2017-12-04 16:18:15] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:15] [Client] getAllVanzare call
+[2017-12-04 16:18:15] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:15] [Client] getAllVanzare call
+[2017-12-04 16:18:15] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:15] [Client] getAllVanzare call
+[2017-12-04 16:18:15] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:15] [Client] getAllVanzare call
+[2017-12-04 16:18:16] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:16] [Client] getAllVanzare call
+[2017-12-04 16:18:16] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:16] [Client] getAllVanzare call
+[2017-12-04 16:18:16] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:16] [Client] getAllVanzare call
+[2017-12-04 16:18:16] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:16] [Client] getAllVanzare call
+[2017-12-04 16:18:16] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:17] [Client] getAllVanzare call
+[2017-12-04 16:18:17] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:17] [Client] getAllVanzare call
+[2017-12-04 16:18:17] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:17] [Client] getAllVanzare call
+[2017-12-04 16:18:17] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.0
+[2017-12-04 16:18:17] [Client] getAllVanzare call
+[2017-12-04 16:18:18] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:19] [randomSeller] addVanzare called: Produs:(id: 11, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: Masa) cantitate: 5.0414124
+[2017-12-04 16:18:19] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.8027763E-4
+[2017-12-04 16:18:19] [Client] getAllVanzare call
+[2017-12-04 16:18:22] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:22] [Client] getAllVanzare call
+[2017-12-04 16:18:23] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:24] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.1384335
+[2017-12-04 16:18:24] [Client] getAllVanzare call
+[2017-12-04 16:18:24] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:24] [Client] getAllVanzare call
+[2017-12-04 16:18:24] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:24] [Client] getAllVanzare call
+[2017-12-04 16:18:25] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:25] [Client] getAllVanzare call
+[2017-12-04 16:18:25] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:25] [Client] getAllVanzare call
+[2017-12-04 16:18:25] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:25] [Client] getAllVanzare call
+[2017-12-04 16:18:26] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:26] [Client] getAllVanzare call
+[2017-12-04 16:18:26] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:26] [Client] getAllVanzare call
+[2017-12-04 16:18:26] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:26] [Client] getAllVanzare call
+[2017-12-04 16:18:26] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:26] [Client] getAllVanzare call
+[2017-12-04 16:18:26] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:26] [Client] getAllVanzare call
+[2017-12-04 16:18:27] [Client] addVanzare called: Produs:(id: 6, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 12.325632
+[2017-12-04 16:18:27] [Client] getAllVanzare call
+[2017-12-04 16:18:28] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:29] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.046167
+[2017-12-04 16:18:29] [Client] getAllVanzare call
+[2017-12-04 16:18:33] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:34] [randomSeller] addVanzare called: Produs:(id: 3, nume: Cartoafe, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 6.202478
+[2017-12-04 16:18:34] [Client] getAllVanzare call
+[2017-12-04 16:18:35] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.1264129E12
+[2017-12-04 16:18:38] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:39] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.989799
+[2017-12-04 16:18:39] [Client] getAllVanzare call
+[2017-12-04 16:18:42] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.1264128E7
+[2017-12-04 16:18:43] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:44] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.8118086
+[2017-12-04 16:18:44] [Client] getAllVanzare call
+[2017-12-04 16:18:47] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412641.0
+[2017-12-04 16:18:48] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:49] [randomSeller] addVanzare called: Produs:(id: 7, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 6.30202
+[2017-12-04 16:18:49] [Client] getAllVanzare call
+[2017-12-04 16:18:53] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:53] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:54] [Client] getAllVanzare call
+[2017-12-04 16:18:54] [randomSeller] addVanzare called: Produs:(id: 5, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 9.125918
+[2017-12-04 16:18:54] [Client] getAllVanzare call
+[2017-12-04 16:18:54] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:54] [Client] getAllVanzare call
+[2017-12-04 16:18:55] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:55] [Client] getAllVanzare call
+[2017-12-04 16:18:55] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:55] [Client] getAllVanzare call
+[2017-12-04 16:18:55] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:55] [Client] getAllVanzare call
+[2017-12-04 16:18:56] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:56] [Client] getAllVanzare call
+[2017-12-04 16:18:56] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:56] [Client] getAllVanzare call
+[2017-12-04 16:18:56] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:56] [Client] getAllVanzare call
+[2017-12-04 16:18:56] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:56] [Client] getAllVanzare call
+[2017-12-04 16:18:56] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:56] [Client] getAllVanzare call
+[2017-12-04 16:18:57] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:57] [Client] getAllVanzare call
+[2017-12-04 16:18:57] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:57] [Client] getAllVanzare call
+[2017-12-04 16:18:57] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:57] [Client] getAllVanzare call
+[2017-12-04 16:18:58] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:58] [Client] getAllVanzare call
+[2017-12-04 16:18:58] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:18:58] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:58] [Client] getAllVanzare call
+[2017-12-04 16:18:58] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:58] [Client] getAllVanzare call
+[2017-12-04 16:18:58] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:58] [Client] getAllVanzare call
+[2017-12-04 16:18:58] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:58] [Client] getAllVanzare call
+[2017-12-04 16:18:59] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:59] [Client] getAllVanzare call
+[2017-12-04 16:18:59] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.8227987
+[2017-12-04 16:18:59] [Client] getAllVanzare call
+[2017-12-04 16:18:59] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:59] [Client] getAllVanzare call
+[2017-12-04 16:18:59] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:59] [Client] getAllVanzare call
+[2017-12-04 16:18:59] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:59] [Client] getAllVanzare call
+[2017-12-04 16:18:59] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:18:59] [Client] getAllVanzare call
+[2017-12-04 16:19:00] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:00] [Client] getAllVanzare call
+[2017-12-04 16:19:00] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:00] [Client] getAllVanzare call
+[2017-12-04 16:19:00] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:00] [Client] getAllVanzare call
+[2017-12-04 16:19:00] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:00] [Client] getAllVanzare call
+[2017-12-04 16:19:00] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:00] [Client] getAllVanzare call
+[2017-12-04 16:19:01] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:01] [Client] getAllVanzare call
+[2017-12-04 16:19:01] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:01] [Client] getAllVanzare call
+[2017-12-04 16:19:02] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:02] [Client] getAllVanzare call
+[2017-12-04 16:19:02] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:02] [Client] getAllVanzare call
+[2017-12-04 16:19:02] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:02] [Client] getAllVanzare call
+[2017-12-04 16:19:02] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:02] [Client] getAllVanzare call
+[2017-12-04 16:19:03] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:03] [Client] getAllVanzare call
+[2017-12-04 16:19:03] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:03] [Client] getAllVanzare call
+[2017-12-04 16:19:03] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:19:03] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:03] [Client] getAllVanzare call
+[2017-12-04 16:19:03] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:03] [Client] getAllVanzare call
+[2017-12-04 16:19:03] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 412.0
+[2017-12-04 16:19:03] [Client] getAllVanzare call
+[2017-12-04 16:19:04] [randomSeller] addVanzare called: Produs:(id: 8, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 5.449394
+[2017-12-04 16:19:04] [Client] getAllVanzare call
+[2017-12-04 16:19:05] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:05] [Client] getAllVanzare call
+[2017-12-04 16:19:06] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:06] [Client] getAllVanzare call
+[2017-12-04 16:19:06] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:06] [Client] getAllVanzare call
+[2017-12-04 16:19:06] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:06] [Client] getAllVanzare call
+[2017-12-04 16:19:06] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:06] [Client] getAllVanzare call
+[2017-12-04 16:19:06] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:06] [Client] getAllVanzare call
+[2017-12-04 16:19:07] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:07] [Client] getAllVanzare call
+[2017-12-04 16:19:07] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:07] [Client] getAllVanzare call
+[2017-12-04 16:19:07] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:07] [Client] getAllVanzare call
+[2017-12-04 16:19:07] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:07] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:08] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:08] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:08] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:08] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:08] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:08] [Client] getAllVanzare call
+[2017-12-04 16:19:08] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:09] [Client] getAllVanzare call
+[2017-12-04 16:19:09] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:09] [Client] getAllVanzare call
+[2017-12-04 16:19:09] [randomSeller] addVanzare called: Produs:(id: 2, nume: Cartoafele, pretUnitar: 0.6, unitateDeMasura: kg) cantitate: 0.22865415
+[2017-12-04 16:19:09] [Client] getAllVanzare call
+[2017-12-04 16:19:09] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:09] [Client] getAllVanzare call
+[2017-12-04 16:19:09] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:09] [Client] getAllVanzare call
+[2017-12-04 16:19:09] [Client] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4120.0
+[2017-12-04 16:19:13] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:19:14] [randomSeller] addVanzare called: Produs:(id: 10, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 4.2719374
+[2017-12-04 16:19:18] [SellSherif] Check verification finished with FAILED STATUS!
+[2017-12-04 16:19:19] [randomSeller] addVanzare called: Produs:(id: 4, nume: Cartofi, pretUnitar: 1.2, unitateDeMasura: kg) cantitate: 3.9139378
+[2017-12-04 16:19:23] [SellSherif] Check verification finished with FAILED STATUS!
